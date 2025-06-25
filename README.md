@@ -30,18 +30,23 @@
 ![List Tasks Home](Screenshots/ListTaskHome.png)  
 #### Add Task Page
 ![Add Task Home](Screenshots/AddTaskHome.png)  
+
 ---
 
 ### Add Task
 
-![Add Task Form](Screenshots/AddTask.png)  
+![Add Task Form](Screenshots/AddTask.png) 
+
 ![Add Success](Screenshots/TaskAddSuccess.png)  
+
 ---
 
 ### Update Task
 
 ![Edit Task](Screenshots/UpdateTask.png)  
+
 ![Update Success](Screenshots/TaskUpdateSuccess.png)  
+
 ---
 
 ### Task List
@@ -52,9 +57,12 @@
 
 ### Delete Task
 
-![Delete Confirmation Modal](Screenshots/DeleteConfirmation.png)  
-![Task Deleted Toast](Screenshots/TaskDeleted.png)  
-![List View](Screenshots/List.png) 
+![Delete Confirmation Modal](Screenshots/DeleteConfirmation.png) 
+
+![Task Deleted Toast](Screenshots/TaskDeleted.png) 
+
+![List View](Screenshots/AfterDeleteList.png) 
+
 ---
 
 
